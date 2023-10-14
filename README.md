@@ -1,3 +1,3 @@
-#practice
+#Practice
 
-im just practicing here :)
+I'm just practicing here :)
